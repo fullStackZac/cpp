@@ -10,6 +10,7 @@ int main()
     string name;
     cin >> name;
     cout << "Hello " << name << "!" << endl;
+    cout << "Here we go!";
 
     return 0;
 }
