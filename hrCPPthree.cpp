@@ -144,6 +144,6 @@ Sample Output 2
 Greater than 9
 Explanation 2
 
- is greater than , so we print Greater than 9.
+ is greater than , so we print Greater than 9.0
 
 */
